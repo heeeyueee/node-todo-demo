@@ -1,5 +1,13 @@
 {
-  "name": "node-todo-1",
+  "name": "moji-todo-1",
+  "bin": {
+    "todo": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "db.js",
+    "index.js"
+  ],
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
